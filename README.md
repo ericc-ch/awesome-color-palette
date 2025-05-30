@@ -4,12 +4,7 @@
 
 - [Gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme.
 
-- **Nord**
-
-  - **Creator:** Sven Greb (Arctic Ice Studio)
-  - **Core Philosophy:** An "arctic, north-bluish color palette" designed for "clear, uncluttered and elegant designs" with a "minimal and flat style pattern," aiming for an "eye-comfortable, but yet colorful ambiance".
-  - **Key Characteristics:** Consists of sixteen "carefully selected, dimmed pastel colors" (nord0-nord15) organized into four sub-palettes (Polar Night, Snow Storm, Frost, Aurora). Offers dark (Polar Night) and bright (Snow Storm) ambiance. Highly structured and elegant.
-  - **Official Website:** [nordtheme.com](https://www.nordtheme.com/)
+- [Nord](https://www.nordtheme.com/) - An arctic, north-bluish color palette.
 
 - **Catppuccin**
 
